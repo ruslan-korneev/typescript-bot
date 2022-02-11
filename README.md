@@ -1,0 +1,1 @@
+write bot using typescript
